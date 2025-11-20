@@ -1,0 +1,14 @@
+---
+# Vars for aws_core_mcp
+
+# Vars for azure_mcp
+azure_mcp_namespaces:
+  - az
+
+# Vars for common
+common_mcp_base_path: /opt/mcp
+common_golang_version: 1.25.4
+common_nodejs_min_version: 20
+common_system_bin_path: /usr/local/bin
+common_uv_installer_url: https://astral.sh/uv/install.sh
+
